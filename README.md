@@ -1,0 +1,2 @@
+# exerciceGestionProjet
+Partage de choses
